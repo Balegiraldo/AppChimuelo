@@ -1,0 +1,156 @@
+/*font-family: 'Germania One', cursive;
+font-family: 'Josefin Sans', sans-serif;*/
+
+body{
+	background-color: black;
+	/*background-image: url("img/fondopag.jpg");*/
+	
+
+}
+#example-menu, ul{
+
+	background-color: Maroon!important;
+	color: white!important;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+a{
+	color: white!important;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+a:hover{
+
+	background-color: Brown!important;
+	color: Cornsilk!important;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.dropdown.menu > li.is-dropdown-submenu-parent > a::after {
+    display: block;
+    width: 0;
+    height: 0;
+    border: inset 6px;
+    content: '';
+    border-bottom-width: 0;
+    border-top-style: solid;
+    border-color: white transparent transparent;
+    right: 5px;
+    left: auto;
+    margin-top: -3px;
+}
+
+.grid-x .grid-padding-x{
+	background-color: black;
+}
+
+.orbit{
+	border: none;
+}
+
+.callout{
+	background-color: black;
+}
+
+h1{
+	font-family: 'Germania One', cursive;
+	text-align: center;
+	color: red;
+
+}
+
+.cell{
+	color: white;
+	text-align: justify;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.thumbnail{
+	width: 30%;
+	border: none;
+	text-align: center;
+
+}
+
+.button{
+	background-color: Brown;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.reveal{
+	color: black;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+h5{
+	color: Brown;
+	font-family: 'Germania One', cursive;
+}
+img{
+
+	width: 70%;
+	
+}
+h2{
+	color: brown;
+	font-family: 'Germania One', cursive;
+}
+
+p{
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: justify;
+	font-style: italic;
+	color: white;
+
+}
+
+.personajes{
+	color: black!important;
+}
+
+h3{
+	text-align: center;
+	color: Brown;
+	font-weight: bold;
+	font-family: 'Germania One', cursive;
+}
+
+.cell{
+	background-color: rgba(30,30,30,0.1);
+}
+
+.footer{
+	background-color: gray;
+}
+
+.header{
+	background-color: gray;
+}
+
+.lead{
+	color: black;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.sinfondo{
+	background-color: transparent;
+	border: none;
+}
+
+.button{
+	text-align: center!important;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+td{
+	font-family: 'Josefin Sans', sans-serif;
+	
+}
+
+th{
+	font-family: 'Germania One', cursive;
+
+}
